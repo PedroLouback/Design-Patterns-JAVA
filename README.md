@@ -1,6 +1,6 @@
-# Projeto com Padrões de Projeto em Java
+# Padrões de Projeto em Java
 
-## [Versão em Inglês](#java-design-patterns-project-english-version)
+## [Versão em Inglês](#java-design-patterns-english-version)
 
 Neste repositório, você encontrará exemplos práticos de como aplicar esses padrões de projeto em Java puro. Cada padrão é implementado em seu próprio pacote com um exemplo de uso. Explore o projeto e aprenda como esses padrões podem ser aplicados em situações do mundo real.
 
@@ -42,7 +42,7 @@ Este projeto está sob a autoria de Pedro Henrique Louback Campos e está licenc
 
 ---
 
-## Java Design Patterns Project (English Version)
+## Java Design Patterns (English Version)
 
 In this repository you will find practical examples of how to apply these design patterns in pure Java. Each pattern is implemented in its own package with a usage example. Explore the project and learn how these patterns can be applied in real-world situations.
 
